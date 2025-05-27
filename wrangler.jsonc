@@ -16,7 +16,7 @@
   "migrations": [
     {
       "tag": "v1",
-      "new_classes": ["TldrawDurableObject"]
+      "new_sqlite_classes": ["TldrawDurableObject"]
     }
   ],
   "r2_buckets": [
